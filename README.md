@@ -7,7 +7,7 @@
 
 ---
 ## 📊 플로우 차트
-![플로우 차트](AppleGameImage/flowchart.png)
+![플로우 차트](AppleGameImage/flowchart1.png)
 
 ---
 
@@ -34,10 +34,6 @@
 
 ## 📸 게임 화면
 ![메인화면](AppleGameImage/mainmenu.png)
-
-> 게임 메뉴 화면입니다.
-
-![인게임화면](AppleGameImage/gamewindow.png)
 
 > 인게임 화면 입니다.
 
